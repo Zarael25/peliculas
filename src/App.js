@@ -12,7 +12,7 @@ function App() {
             <div className="play"></div>
         </div>
         
-        <h1>MisPelisRevita</h1>
+        <h1>MisPelisRevi</h1>
     </header>
 
     {/*Barra de navegación*/}
